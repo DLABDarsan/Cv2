@@ -101,8 +101,8 @@
     <ul>
   <li><a href="Maths - 1st chp - SETS.pdf">Maths - 1st chp - SETS</a></li>
   <li><a href="Maths chapter 2 Relations and Functions.pdf">Maths chapter 2 Relations and Functions</a></li>
-  <li><a href="Maths chapter 3 trigonometry.pdf">Maths chapter 3 trigonometry  </a></li>
-  <li><a href="Maths chapter 4 principle of Mathematical Induction.pdf">Maths chapter 4 principle of Mathematical Induction _</a></li>
+  <li><a href="Maths chapter 3 trigonometry .pdf">Maths chapter 3 trigonometry  </a></li>
+  <li><a href="Maths chapter 4 principle of Mathematical Induction .pdf">Maths chapter 4 principle of Mathematical Induction _</a></li>
  
   
 </ul>
@@ -110,7 +110,7 @@
         
    <hr><h4>Electronics </h4>
     <ul>
-  <li><a href="Electronics chapter 1.pdf">Electronics chapter 1 </a></li>
+  <li><a href="Electronics chapter 1 .pdf">Electronics chapter 1 </a></li>
   <li><a href="Electronics chapter 2.pdf">Electronics chapter 2</a></li>
   <li><a href="Electronics chapter 3.pdf">Electronics chapter 3 </a></li>
   <li><a href="Electronics chapter 4.pdf">Electronics chapter 4</a></li>
