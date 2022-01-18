@@ -101,7 +101,7 @@
     <ul>
   <li><a href="Maths - 1st chp - SETS.pdf">Maths - 1st chp - SETS</a></li>
   <li><a href="Maths chapter 2 Relations and Functions.pdf">Maths chapter 2 Relations and Functions</a></li>
-  <li><a href="Maths chapter 3 trigonometry .pdf">Maths chapter 3 trigonometry  </a></li>
+  <li><a href="Maths chapter 3 trigonometry.pdf">Maths chapter 3 trigonometry  </a></li>
   <li><a href="Maths chapter 4 principle of Mathematical Induction .pdf">Maths chapter 4 principle of Mathematical Induction _</a></li>
  
   
