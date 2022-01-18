@@ -107,7 +107,7 @@
   
 </ul>
     
-         <hr>  <h3>My Notes</h3>
+        
    <hr><h4>Electronics </h4>
     <ul>
   <li><a href="Electronics chapter 1 ">Electronics chapter 1 </a></li>
